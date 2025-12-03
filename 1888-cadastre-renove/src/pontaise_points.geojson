@@ -1,0 +1,4944 @@
+{
+  "type": "FeatureCollection",
+  "name": "pontaise_points",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "149",
+        "num": "1.0",
+        "folio": "158",
+        "parcel_id": "1",
+        "merge_id": "158f1",
+        "geom_id": "35298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630197476043704,
+          46.52986335780883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "num": "1.0",
+        "folio": "160",
+        "parcel_id": "1",
+        "merge_id": "160f1",
+        "geom_id": "35714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628498910548211,
+          46.53133748558789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "325",
+        "num": "2.0",
+        "folio": "29",
+        "parcel_id": "2",
+        "merge_id": "29f2",
+        "geom_id": "15198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63252010974709,
+          46.527782029583115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "450",
+        "num": "2.0",
+        "folio": "158",
+        "parcel_id": "2",
+        "merge_id": "158f2",
+        "geom_id": "35322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630215587515139,
+          46.52979150362156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "452",
+        "num": "2.0",
+        "folio": "160",
+        "parcel_id": "2",
+        "merge_id": "160f2",
+        "geom_id": "35713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628596412258688,
+          46.53143473957444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "741",
+        "num": "3.0",
+        "folio": "158",
+        "parcel_id": "3",
+        "merge_id": "158f3",
+        "geom_id": "35341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630243696271295,
+          46.52971799994613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "743",
+        "num": "3.0",
+        "folio": "160",
+        "parcel_id": "3",
+        "merge_id": "160f3",
+        "geom_id": "35711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628327185719125,
+          46.531297400692274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1026",
+        "num": "4.0",
+        "folio": "158",
+        "parcel_id": "4",
+        "merge_id": "158f4",
+        "geom_id": "35270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630152837366847,
+          46.52992153153185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1028",
+        "num": "4.0",
+        "folio": "160",
+        "parcel_id": "4",
+        "merge_id": "160f4",
+        "geom_id": "35733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627838816235272,
+          46.53084056093447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1309",
+        "num": "5.0",
+        "folio": "158",
+        "parcel_id": "5",
+        "merge_id": "158f5",
+        "geom_id": "35291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630275728092222,
+          46.52988226963459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1311",
+        "num": "5.0",
+        "folio": "160",
+        "parcel_id": "5",
+        "merge_id": "160f5",
+        "geom_id": "35780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627668760565863,
+          46.530660949037006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1592",
+        "num": "6.0",
+        "folio": "158",
+        "parcel_id": "6",
+        "merge_id": "158f6",
+        "geom_id": "35319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63031122974901,
+          46.529814554329405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1594",
+        "num": "6.0",
+        "folio": "160",
+        "parcel_id": "6",
+        "merge_id": "160f6",
+        "geom_id": "35781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627631438798621,
+          46.530675107084534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1868",
+        "num": "7.0",
+        "folio": "158",
+        "parcel_id": "7",
+        "merge_id": "158f7",
+        "geom_id": "35337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630331478511626,
+          46.52973870035014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1870",
+        "num": "7.0",
+        "folio": "160",
+        "parcel_id": "7",
+        "merge_id": "160f7",
+        "geom_id": "35798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627355060397986,
+          46.53041790051844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2148",
+        "num": "8.0",
+        "folio": "158",
+        "parcel_id": "8",
+        "merge_id": "158f8",
+        "geom_id": "35275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630242038970978,
+          46.529912142118825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2150",
+        "num": "8.0",
+        "folio": "160",
+        "parcel_id": "8",
+        "merge_id": "160f8",
+        "geom_id": "35775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627421604698608,
+          46.53038923230424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2424",
+        "num": "9.0",
+        "folio": "158",
+        "parcel_id": "9",
+        "merge_id": "158f9",
+        "geom_id": "35267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630247842329111,
+          46.529940862045464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2426",
+        "num": "9.0",
+        "folio": "160",
+        "parcel_id": "9",
+        "merge_id": "160f9",
+        "geom_id": "35807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627090734716654,
+          46.53018197510117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2692",
+        "num": "10.0",
+        "folio": "158",
+        "parcel_id": "10",
+        "merge_id": "158f10",
+        "geom_id": "35283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630344038584201,
+          46.52989910308307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2693",
+        "num": "10.0",
+        "folio": "159",
+        "parcel_id": "10",
+        "merge_id": "159f10",
+        "geom_id": "35559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630179021192451,
+          46.531109814696876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2694",
+        "num": "10.0",
+        "folio": "160",
+        "parcel_id": "10",
+        "merge_id": "160f10",
+        "geom_id": "35813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627212150825964,
+          46.53022023021214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2958",
+        "num": "11.0",
+        "folio": "158",
+        "parcel_id": "11",
+        "merge_id": "158f11",
+        "geom_id": "35310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630375852270819,
+          46.529827920056086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2959",
+        "num": "11.0",
+        "folio": "159",
+        "parcel_id": "11",
+        "merge_id": "159f11",
+        "geom_id": "35611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630761147645893,
+          46.53042871744674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2960",
+        "num": "11.0",
+        "folio": "160",
+        "parcel_id": "11",
+        "merge_id": "160f11",
+        "geom_id": "35810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627135372518961,
+          46.53013864820113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3217",
+        "num": "12.0",
+        "folio": "158",
+        "parcel_id": "12",
+        "merge_id": "158f12",
+        "geom_id": "35334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630405597032617,
+          46.529756148711115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3218",
+        "num": "12.0",
+        "folio": "159",
+        "parcel_id": "12",
+        "merge_id": "159f12",
+        "geom_id": "35583"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629867105851826,
+          46.530900281885174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3219",
+        "num": "12.0",
+        "folio": "160",
+        "parcel_id": "12",
+        "merge_id": "160f12",
+        "geom_id": "35833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627290245364853,
+          46.53007565745202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3465",
+        "num": "13.0",
+        "folio": "158",
+        "parcel_id": "13",
+        "merge_id": "158f13",
+        "geom_id": "35268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630334387570763,
+          46.52993316183828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3466",
+        "num": "13.0",
+        "folio": "159",
+        "parcel_id": "13",
+        "merge_id": "159f13",
+        "geom_id": "35568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629966178391939,
+          46.530918838194474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3467",
+        "num": "13.0",
+        "folio": "160",
+        "parcel_id": "13",
+        "merge_id": "160f13",
+        "geom_id": "35834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627332737751369,
+          46.5300580038848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3480",
+        "num": "13.0",
+        "folio": "176",
+        "parcel_id": "13",
+        "merge_id": "176f13",
+        "geom_id": "37554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628642240466299,
+          46.53156936913342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3718",
+        "num": "14.0",
+        "folio": "158",
+        "parcel_id": "14",
+        "merge_id": "158f14",
+        "geom_id": "35265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630316576948982,
+          46.52995712496023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3719",
+        "num": "14.0",
+        "folio": "159",
+        "parcel_id": "14",
+        "merge_id": "159f14",
+        "geom_id": "35561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629877130578958,
+          46.53108083834815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3720",
+        "num": "14.0",
+        "folio": "160",
+        "parcel_id": "14",
+        "merge_id": "160f14",
+        "geom_id": "35789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627434142136035,
+          46.53017913190081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3732",
+        "num": "14.0",
+        "folio": "176",
+        "parcel_id": "14",
+        "merge_id": "176f14",
+        "geom_id": "37548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628719037434951,
+          46.53165763549893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3962",
+        "num": "15.0",
+        "folio": "158",
+        "parcel_id": "15",
+        "merge_id": "158f15",
+        "geom_id": "35272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630425653207555,
+          46.52991545768744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3963",
+        "num": "15.0",
+        "folio": "159",
+        "parcel_id": "15",
+        "merge_id": "159f15",
+        "geom_id": "35564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629736209301717,
+          46.53102575520956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3964",
+        "num": "15.0",
+        "folio": "160",
+        "parcel_id": "15",
+        "merge_id": "160f15",
+        "geom_id": "35802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627582134569025,
+          46.53032237725289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3975",
+        "num": "15.0",
+        "folio": "176",
+        "parcel_id": "15",
+        "merge_id": "176f15",
+        "geom_id": "37547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628652099388968,
+          46.53161599129055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4201",
+        "num": "16.0",
+        "folio": "158",
+        "parcel_id": "16",
+        "merge_id": "158f16",
+        "geom_id": "35302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630468153611329,
+          46.52985209397448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4202",
+        "num": "16.0",
+        "folio": "159",
+        "parcel_id": "16",
+        "merge_id": "159f16",
+        "geom_id": "35565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629646705192243,
+          46.53100609499281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4203",
+        "num": "16.0",
+        "folio": "160",
+        "parcel_id": "16",
+        "merge_id": "160f16",
+        "geom_id": "35821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627646631505552,
+          46.53020272967869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4213",
+        "num": "16.0",
+        "folio": "176",
+        "parcel_id": "16",
+        "merge_id": "176f16",
+        "geom_id": "37533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628786223066885,
+          46.53181918618446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4432",
+        "num": "17.0",
+        "folio": "158",
+        "parcel_id": "17",
+        "merge_id": "158f17",
+        "geom_id": "35266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630442070596631,
+          46.52995687178309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4433",
+        "num": "17.0",
+        "folio": "159",
+        "parcel_id": "17",
+        "merge_id": "159f17",
+        "geom_id": "35586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629766378682981,
+          46.530882563701375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4443",
+        "num": "17.0",
+        "folio": "176",
+        "parcel_id": "17",
+        "merge_id": "176f17",
+        "geom_id": "37561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628768713323746,
+          46.53151217830778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4574",
+        "num": "18.0",
+        "folio": "29",
+        "parcel_id": "18",
+        "merge_id": "29f18",
+        "geom_id": "15203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632899598497863,
+          46.52770643967574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4665",
+        "num": "18.0",
+        "folio": "158",
+        "parcel_id": "18",
+        "merge_id": "158f18",
+        "geom_id": "35262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630438356496893,
+          46.52998294283342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4666",
+        "num": "18.0",
+        "folio": "159",
+        "parcel_id": "18",
+        "merge_id": "159f18",
+        "geom_id": "35599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629828500497026,
+          46.530818972614476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4675",
+        "num": "18.0",
+        "folio": "176",
+        "parcel_id": "18",
+        "merge_id": "176f18",
+        "geom_id": "37559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628721555318709,
+          46.53147290569547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4889",
+        "num": "19.0",
+        "folio": "158",
+        "parcel_id": "19",
+        "merge_id": "158f19",
+        "geom_id": "35261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630595949753235,
+          46.529975748484716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4890",
+        "num": "19.0",
+        "folio": "159",
+        "parcel_id": "19",
+        "merge_id": "159f19",
+        "geom_id": "35601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629770113680315,
+          46.530797589537414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4891",
+        "num": "19.0",
+        "folio": "160",
+        "parcel_id": "19",
+        "merge_id": "160f19",
+        "geom_id": "35773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627933295346027,
+          46.530655774244515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4900",
+        "num": "19.0",
+        "folio": "176",
+        "parcel_id": "19",
+        "merge_id": "176f19",
+        "geom_id": "37550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628873533967085,
+          46.531595307910166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5106",
+        "num": "20.0",
+        "folio": "158",
+        "parcel_id": "20",
+        "merge_id": "158f20",
+        "geom_id": "35252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630700785816917,
+          46.530039688894426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5108",
+        "num": "20.0",
+        "folio": "160",
+        "parcel_id": "20",
+        "merge_id": "160f20",
+        "geom_id": "35782"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628135737938372,
+          46.53063837996208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5117",
+        "num": "20.0",
+        "folio": "176",
+        "parcel_id": "20",
+        "merge_id": "176f20",
+        "geom_id": "37473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628884006633135,
+          46.53239049580368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5313",
+        "num": "21.0",
+        "folio": "158",
+        "parcel_id": "21",
+        "merge_id": "158f21",
+        "geom_id": "35257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630746314224492,
+          46.52995778105402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5315",
+        "num": "21.0",
+        "folio": "160",
+        "parcel_id": "21",
+        "merge_id": "160f21",
+        "geom_id": "35779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628225622553586,
+          46.5307314585001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5323",
+        "num": "21.0",
+        "folio": "176",
+        "parcel_id": "21",
+        "merge_id": "176f21",
+        "geom_id": "37511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629191804650237,
+          46.53207753339995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5521",
+        "num": "22.0",
+        "folio": "158",
+        "parcel_id": "22",
+        "merge_id": "158f22",
+        "geom_id": "35306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630769196920519,
+          46.529606750880795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5523",
+        "num": "22.0",
+        "folio": "160",
+        "parcel_id": "22",
+        "merge_id": "160f22",
+        "geom_id": "35766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628248079699191,
+          46.530769888787134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5531",
+        "num": "22.0",
+        "folio": "176",
+        "parcel_id": "22",
+        "merge_id": "176f22",
+        "geom_id": "37471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629230788147622,
+          46.53291933744854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5721",
+        "num": "23.0",
+        "folio": "158",
+        "parcel_id": "23",
+        "merge_id": "158f23",
+        "geom_id": "35355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630680486386209,
+          46.52924074497752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5723",
+        "num": "23.0",
+        "folio": "160",
+        "parcel_id": "23",
+        "merge_id": "160f23",
+        "geom_id": "35767"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628170880045632,
+          46.53082644783378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5730",
+        "num": "23.0",
+        "folio": "176",
+        "parcel_id": "23",
+        "merge_id": "176f23",
+        "geom_id": "37472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629485275436022,
+          46.53342471165249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5920",
+        "num": "24.0",
+        "folio": "158",
+        "parcel_id": "24",
+        "merge_id": "158f24",
+        "geom_id": "35305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630617344334032,
+          46.5297120579338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5922",
+        "num": "24.0",
+        "folio": "160",
+        "parcel_id": "24",
+        "merge_id": "160f24",
+        "geom_id": "35765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628141713070895,
+          46.53086568691839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6117",
+        "num": "25.0",
+        "folio": "158",
+        "parcel_id": "25",
+        "merge_id": "158f25",
+        "geom_id": "35357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630584837234886,
+          46.529468345300394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6119",
+        "num": "25.0",
+        "folio": "160",
+        "parcel_id": "25",
+        "merge_id": "160f25",
+        "geom_id": "35725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62850259353519,
+          46.530949514094274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6309",
+        "num": "26.0",
+        "folio": "158",
+        "parcel_id": "26",
+        "merge_id": "158f26",
+        "geom_id": "35335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630461314942662,
+          46.52971558636635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6311",
+        "num": "26.0",
+        "folio": "160",
+        "parcel_id": "26",
+        "merge_id": "160f26",
+        "geom_id": "35747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628245963895268,
+          46.53093943872701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6491",
+        "num": "27.0",
+        "folio": "158",
+        "parcel_id": "27",
+        "merge_id": "158f27",
+        "geom_id": "35353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630142957536076,
+          46.52948011030102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6493",
+        "num": "27.0",
+        "folio": "160",
+        "parcel_id": "27",
+        "merge_id": "160f27",
+        "geom_id": "35745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628396954892701,
+          46.53108211563079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6666",
+        "num": "28.0",
+        "folio": "158",
+        "parcel_id": "28",
+        "merge_id": "158f28",
+        "geom_id": "35359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630178454805757,
+          46.52941268179127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6668",
+        "num": "28.0",
+        "folio": "160",
+        "parcel_id": "28",
+        "merge_id": "160f28",
+        "geom_id": "35740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628460138736417,
+          46.53116381671969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6835",
+        "num": "29.0",
+        "folio": "158",
+        "parcel_id": "29",
+        "merge_id": "158f29",
+        "geom_id": "35359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630225991767486,
+          46.52937373084861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6837",
+        "num": "29.0",
+        "folio": "160",
+        "parcel_id": "29",
+        "merge_id": "160f29",
+        "geom_id": "35742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628501559470833,
+          46.53113231902425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7002",
+        "num": "30.0",
+        "folio": "158",
+        "parcel_id": "30",
+        "merge_id": "158f30",
+        "geom_id": "35371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630239442120168,
+          46.52933568417083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7004",
+        "num": "30.0",
+        "folio": "160",
+        "parcel_id": "30",
+        "merge_id": "160f30",
+        "geom_id": "35743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62860946002311,
+          46.53113338376346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7160",
+        "num": "31.0",
+        "folio": "158",
+        "parcel_id": "31",
+        "merge_id": "158f31",
+        "geom_id": "35386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630141986261074,
+          46.52923949009265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7162",
+        "num": "31.0",
+        "folio": "160",
+        "parcel_id": "31",
+        "merge_id": "160f31",
+        "geom_id": "35722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628652742954086,
+          46.531319154514506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7314",
+        "num": "32.0",
+        "folio": "158",
+        "parcel_id": "32",
+        "merge_id": "158f32",
+        "geom_id": "35389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630108727079798,
+          46.52921286879618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7316",
+        "num": "32.0",
+        "folio": "160",
+        "parcel_id": "32",
+        "merge_id": "160f32",
+        "geom_id": "35721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628793396422206,
+          46.53132634055693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7320",
+        "num": "32.0",
+        "folio": "176",
+        "parcel_id": "32",
+        "merge_id": "176f32",
+        "geom_id": "37530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629903928807146,
+          46.531880283375855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7465",
+        "num": "33.0",
+        "folio": "158",
+        "parcel_id": "33",
+        "merge_id": "158f33",
+        "geom_id": "35363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630048786822378,
+          46.52938652062553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7467",
+        "num": "33.0",
+        "folio": "160",
+        "parcel_id": "33",
+        "merge_id": "160f33",
+        "geom_id": "35718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628698217214998,
+          46.53138718738997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7471",
+        "num": "33.0",
+        "folio": "176",
+        "parcel_id": "33",
+        "merge_id": "176f33",
+        "geom_id": "37536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629975310878381,
+          46.53181636368729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7611",
+        "num": "34.0",
+        "folio": "158",
+        "parcel_id": "34",
+        "merge_id": "158f34",
+        "geom_id": "35405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630087583965143,
+          46.52905061440178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7612",
+        "num": "34.0",
+        "folio": "159",
+        "parcel_id": "34",
+        "merge_id": "159f34",
+        "geom_id": "35559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630127604947283,
+          46.53107780670877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7613",
+        "num": "34.0",
+        "folio": "160",
+        "parcel_id": "34",
+        "merge_id": "160f34",
+        "geom_id": "35719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628709716561095,
+          46.531359891785876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7617",
+        "num": "34.0",
+        "folio": "176",
+        "parcel_id": "34",
+        "merge_id": "176f34",
+        "geom_id": "37528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630006204641668,
+          46.53188609875945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7758",
+        "num": "35.0",
+        "folio": "158",
+        "parcel_id": "35",
+        "merge_id": "158f35",
+        "geom_id": "35402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630086091716885,
+          46.52894829097827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7759",
+        "num": "35.0",
+        "folio": "159",
+        "parcel_id": "35",
+        "merge_id": "159f35",
+        "geom_id": "35567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630233455725496,
+          46.530972593272104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7760",
+        "num": "35.0",
+        "folio": "160",
+        "parcel_id": "35",
+        "merge_id": "160f35",
+        "geom_id": "35723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628738952300012,
+          46.531259126845775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7762",
+        "num": "35.0",
+        "folio": "176",
+        "parcel_id": "35",
+        "merge_id": "176f35",
+        "geom_id": "37562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630289437746312,
+          46.531510023680106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7897",
+        "num": "36.0",
+        "folio": "158",
+        "parcel_id": "36",
+        "merge_id": "158f36",
+        "geom_id": "35448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62994012619254,
+          46.52878951849006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7898",
+        "num": "36.0",
+        "folio": "159",
+        "parcel_id": "36",
+        "merge_id": "159f36",
+        "geom_id": "35607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629848290497486,
+          46.53075847978589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7899",
+        "num": "36.0",
+        "folio": "160",
+        "parcel_id": "36",
+        "merge_id": "160f36",
+        "geom_id": "35736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628511483669778,
+          46.53121010719357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7901",
+        "num": "36.0",
+        "folio": "176",
+        "parcel_id": "36",
+        "merge_id": "176f36",
+        "geom_id": "37565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630231716436813,
+          46.53148191952137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8028",
+        "num": "37.0",
+        "folio": "158",
+        "parcel_id": "37",
+        "merge_id": "158f37",
+        "geom_id": "35417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630188606199407,
+          46.529011827573335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8029",
+        "num": "37.0",
+        "folio": "159",
+        "parcel_id": "37",
+        "merge_id": "159f37",
+        "geom_id": "35598"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630362343337471,
+          46.53069952563125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8030",
+        "num": "37.0",
+        "folio": "160",
+        "parcel_id": "37",
+        "merge_id": "160f37",
+        "geom_id": "35728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628585667171293,
+          46.53124095835647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8032",
+        "num": "37.0",
+        "folio": "176",
+        "parcel_id": "37",
+        "merge_id": "176f37",
+        "geom_id": "37568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630271307756169,
+          46.53140816539788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8159",
+        "num": "38.0",
+        "folio": "158",
+        "parcel_id": "38",
+        "merge_id": "158f38",
+        "geom_id": "35412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630225540260901,
+          46.52904277681815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8160",
+        "num": "38.0",
+        "folio": "159",
+        "parcel_id": "38",
+        "merge_id": "159f38",
+        "geom_id": "35611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630277674430511,
+          46.53034928588285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8161",
+        "num": "38.0",
+        "folio": "160",
+        "parcel_id": "38",
+        "merge_id": "160f38",
+        "geom_id": "35746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628757951555137,
+          46.53107291754751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8163",
+        "num": "38.0",
+        "folio": "176",
+        "parcel_id": "38",
+        "merge_id": "176f38",
+        "geom_id": "37557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630194268669311,
+          46.531576599890144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8280",
+        "num": "39.0",
+        "folio": "158",
+        "parcel_id": "39",
+        "merge_id": "158f39",
+        "geom_id": "35398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630327001119532,
+          46.52912121863991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8281",
+        "num": "39.0",
+        "folio": "159",
+        "parcel_id": "39",
+        "merge_id": "159f39",
+        "geom_id": "35564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629770218347563,
+          46.53098260866979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8282",
+        "num": "39.0",
+        "folio": "160",
+        "parcel_id": "39",
+        "merge_id": "160f39",
+        "geom_id": "35749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628886113662182,
+          46.53105970184086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8284",
+        "num": "39.0",
+        "folio": "176",
+        "parcel_id": "39",
+        "merge_id": "176f39",
+        "geom_id": "37552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630330883311183,
+          46.53158605061513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8398",
+        "num": "40.0",
+        "folio": "158",
+        "parcel_id": "40",
+        "merge_id": "158f40",
+        "geom_id": "35377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630226694336147,
+          46.52916008043387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8399",
+        "num": "40.0",
+        "folio": "160",
+        "parcel_id": "40",
+        "merge_id": "160f40",
+        "geom_id": "35731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62885718572555,
+          46.53116841737482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8401",
+        "num": "40.0",
+        "folio": "176",
+        "parcel_id": "40",
+        "merge_id": "176f40",
+        "geom_id": "37540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630123441447709,
+          46.5317676850669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8510",
+        "num": "41.0",
+        "folio": "158",
+        "parcel_id": "41",
+        "merge_id": "158f41",
+        "geom_id": "35428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630296927965402,
+          46.52890935646928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8511",
+        "num": "41.0",
+        "folio": "160",
+        "parcel_id": "41",
+        "merge_id": "160f41",
+        "geom_id": "35750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627806600393688,
+          46.53023007312078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8513",
+        "num": "41.0",
+        "folio": "176",
+        "parcel_id": "41",
+        "merge_id": "176f41",
+        "geom_id": "37545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63013849410582,
+          46.53169206064707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8616",
+        "num": "42.0",
+        "folio": "158",
+        "parcel_id": "42",
+        "merge_id": "158f42",
+        "geom_id": "35420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630239813473816,
+          46.52897749135195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8617",
+        "num": "42.0",
+        "folio": "160",
+        "parcel_id": "42",
+        "merge_id": "160f42",
+        "geom_id": "35830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627556272827933,
+          46.52999925334985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8618",
+        "num": "42.0",
+        "folio": "176",
+        "parcel_id": "42",
+        "merge_id": "176f42",
+        "geom_id": "37509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62969484994283,
+          46.53167872568813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8718",
+        "num": "43.0",
+        "folio": "158",
+        "parcel_id": "43",
+        "merge_id": "158f43",
+        "geom_id": "35400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630350551474827,
+          46.529074640329235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8719",
+        "num": "43.0",
+        "folio": "160",
+        "parcel_id": "43",
+        "merge_id": "160f43",
+        "geom_id": "35776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627918402398582,
+          46.52997093113663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8720",
+        "num": "43.0",
+        "folio": "176",
+        "parcel_id": "43",
+        "merge_id": "176f43",
+        "geom_id": "37554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62865519247876,
+          46.53154640802579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8816",
+        "num": "44.0",
+        "folio": "158",
+        "parcel_id": "44",
+        "merge_id": "158f44",
+        "geom_id": "35407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630299127401869,
+          46.52902718493254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8817",
+        "num": "44.0",
+        "folio": "160",
+        "parcel_id": "44",
+        "merge_id": "160f44",
+        "geom_id": "35771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628692647755829,
+          46.53055194993681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8818",
+        "num": "44.0",
+        "folio": "176",
+        "parcel_id": "44",
+        "merge_id": "176f44",
+        "geom_id": "37547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628721826800492,
+          46.5315807933927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8911",
+        "num": "45.0",
+        "folio": "158",
+        "parcel_id": "45",
+        "merge_id": "158f45",
+        "geom_id": "35453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630306349881325,
+          46.528751691403556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8912",
+        "num": "45.0",
+        "folio": "160",
+        "parcel_id": "45",
+        "merge_id": "160f45",
+        "geom_id": "35768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628891701961906,
+          46.53077212880465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8913",
+        "num": "45.0",
+        "folio": "176",
+        "parcel_id": "45",
+        "merge_id": "176f45",
+        "geom_id": "37559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628695940883442,
+          46.53150487692353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9002",
+        "num": "46.0",
+        "folio": "158",
+        "parcel_id": "46",
+        "merge_id": "158f46",
+        "geom_id": "35426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630116791735607,
+          46.52886820972565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9003",
+        "num": "46.0",
+        "folio": "160",
+        "parcel_id": "46",
+        "merge_id": "160f46",
+        "geom_id": "35755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628740239141508,
+          46.530831690829295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9004",
+        "num": "46.0",
+        "folio": "176",
+        "parcel_id": "46",
+        "merge_id": "176f46",
+        "geom_id": "37550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628871600460193,
+          46.53156776784356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9090",
+        "num": "47.0",
+        "folio": "158",
+        "parcel_id": "47",
+        "merge_id": "158f47",
+        "geom_id": "35445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630452824634414,
+          46.52873753520618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9091",
+        "num": "47.0",
+        "folio": "160",
+        "parcel_id": "47",
+        "merge_id": "160f47",
+        "geom_id": "35760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628973000777582,
+          46.53086897245487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9092",
+        "num": "47.0",
+        "folio": "176",
+        "parcel_id": "47",
+        "merge_id": "176f47",
+        "geom_id": "37473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629167352666113,
+          46.53179647352583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9177",
+        "num": "48.0",
+        "folio": "158",
+        "parcel_id": "48",
+        "merge_id": "158f48",
+        "geom_id": "35469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630307882543353,
+          46.52856586512143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9178",
+        "num": "48.0",
+        "folio": "160",
+        "parcel_id": "48",
+        "merge_id": "160f48",
+        "geom_id": "35748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628965316267785,
+          46.53104024895589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9259",
+        "num": "49.0",
+        "folio": "158",
+        "parcel_id": "49",
+        "merge_id": "158f49",
+        "geom_id": "35473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630376312941162,
+          46.52849121474639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9260",
+        "num": "49.0",
+        "folio": "160",
+        "parcel_id": "49",
+        "merge_id": "160f49",
+        "geom_id": "35752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628912197672304,
+          46.53102691700988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9341",
+        "num": "50.0",
+        "folio": "158",
+        "parcel_id": "50",
+        "merge_id": "158f50",
+        "geom_id": "35396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630577290381984,
+          46.529139348256535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9342",
+        "num": "50.0",
+        "folio": "160",
+        "parcel_id": "50",
+        "merge_id": "160f50",
+        "geom_id": "35756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628882102627986,
+          46.53098578289633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9421",
+        "num": "51.0",
+        "folio": "158",
+        "parcel_id": "51",
+        "merge_id": "158f51",
+        "geom_id": "35393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630696682177033,
+          46.529185797436945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9422",
+        "num": "51.0",
+        "folio": "160",
+        "parcel_id": "51",
+        "merge_id": "160f51",
+        "geom_id": "35741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629079579722251,
+          46.53112908500747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9494",
+        "num": "52.0",
+        "folio": "158",
+        "parcel_id": "52",
+        "merge_id": "158f52",
+        "geom_id": "35387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630645321020982,
+          46.52920263883455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9495",
+        "num": "52.0",
+        "folio": "160",
+        "parcel_id": "52",
+        "merge_id": "160f52",
+        "geom_id": "35764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629159071422134,
+          46.53091946215909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9563",
+        "num": "53.0",
+        "folio": "158",
+        "parcel_id": "53",
+        "merge_id": "158f53",
+        "geom_id": "35392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630654663753826,
+          46.52913358999307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9564",
+        "num": "53.0",
+        "folio": "160",
+        "parcel_id": "53",
+        "merge_id": "160f53",
+        "geom_id": "35763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629266944747747,
+          46.530827576406274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9633",
+        "num": "54.0",
+        "folio": "158",
+        "parcel_id": "54",
+        "merge_id": "158f54",
+        "geom_id": "35391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630787398372807,
+          46.52913723762017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9634",
+        "num": "54.0",
+        "folio": "160",
+        "parcel_id": "54",
+        "merge_id": "160f54",
+        "geom_id": "35791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629502482045429,
+          46.53054628603686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9701",
+        "num": "55.0",
+        "folio": "158",
+        "parcel_id": "55",
+        "merge_id": "158f55",
+        "geom_id": "35422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630651110549847,
+          46.52898214179463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9702",
+        "num": "55.0",
+        "folio": "160",
+        "parcel_id": "55",
+        "merge_id": "160f55",
+        "geom_id": "35806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628497506196317,
+          46.52969540292087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9768",
+        "num": "56.0",
+        "folio": "158",
+        "parcel_id": "56",
+        "merge_id": "158f56",
+        "geom_id": "35415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630730967356786,
+          46.529032611179616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9769",
+        "num": "56.0",
+        "folio": "160",
+        "parcel_id": "56",
+        "merge_id": "160f56",
+        "geom_id": "35864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628775341539002,
+          46.52977009917011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9833",
+        "num": "57.0",
+        "folio": "158",
+        "parcel_id": "57",
+        "merge_id": "158f57",
+        "geom_id": "35418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630768591837194,
+          46.52901739265098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9834",
+        "num": "57.0",
+        "folio": "160",
+        "parcel_id": "57",
+        "merge_id": "160f57",
+        "geom_id": "35847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62883180508204,
+          46.529873242111044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9898",
+        "num": "58.0",
+        "folio": "158",
+        "parcel_id": "58",
+        "merge_id": "158f58",
+        "geom_id": "35411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630812023871735,
+          46.52905842547224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9899",
+        "num": "58.0",
+        "folio": "160",
+        "parcel_id": "58",
+        "merge_id": "160f58",
+        "geom_id": "35857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628891602154415,
+          46.52986778120561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9957",
+        "num": "59.0",
+        "folio": "158",
+        "parcel_id": "59",
+        "merge_id": "158f59",
+        "geom_id": "35413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630564481126719,
+          46.52899557734838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9958",
+        "num": "59.0",
+        "folio": "160",
+        "parcel_id": "59",
+        "merge_id": "160f59",
+        "geom_id": "35876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628751439028354,
+          46.529799661317966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10015",
+        "num": "60.0",
+        "folio": "158",
+        "parcel_id": "60",
+        "merge_id": "158f60",
+        "geom_id": "35408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630844885476797,
+          46.52902826014654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10016",
+        "num": "60.0",
+        "folio": "160",
+        "parcel_id": "60",
+        "merge_id": "160f60",
+        "geom_id": "35858"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628542205361328,
+          46.52958738884361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10075",
+        "num": "61.0",
+        "folio": "158",
+        "parcel_id": "61",
+        "merge_id": "158f61",
+        "geom_id": "35441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630626663506574,
+          46.528838574801874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10076",
+        "num": "61.0",
+        "folio": "160",
+        "parcel_id": "61",
+        "merge_id": "160f61",
+        "geom_id": "35851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628807024974468,
+          46.52967671127694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10134",
+        "num": "62.0",
+        "folio": "158",
+        "parcel_id": "62",
+        "merge_id": "158f62",
+        "geom_id": "35450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630753140422822,
+          46.52877236757142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10135",
+        "num": "62.0",
+        "folio": "160",
+        "parcel_id": "62",
+        "merge_id": "160f62",
+        "geom_id": "35829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628958323894691,
+          46.529969525371214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10189",
+        "num": "63.0",
+        "folio": "158",
+        "parcel_id": "63",
+        "merge_id": "158f63",
+        "geom_id": "35442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630828293910032,
+          46.528831693759486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10190",
+        "num": "63.0",
+        "folio": "160",
+        "parcel_id": "63",
+        "merge_id": "160f63",
+        "geom_id": "35804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629366078105098,
+          46.530312447630855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10246",
+        "num": "64.0",
+        "folio": "158",
+        "parcel_id": "64",
+        "merge_id": "158f64",
+        "geom_id": "35440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630658034651064,
+          46.528796927484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10247",
+        "num": "64.0",
+        "folio": "160",
+        "parcel_id": "64",
+        "merge_id": "160f64",
+        "geom_id": "35790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629544935161225,
+          46.530531272755226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10297",
+        "num": "65.0",
+        "folio": "158",
+        "parcel_id": "65",
+        "merge_id": "158f65",
+        "geom_id": "35435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630931413288013,
+          46.528854797191904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10298",
+        "num": "65.0",
+        "folio": "160",
+        "parcel_id": "65",
+        "merge_id": "160f65",
+        "geom_id": "35794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629447249271473,
+          46.53041782716039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10354",
+        "num": "66.0",
+        "folio": "158",
+        "parcel_id": "66",
+        "merge_id": "158f66",
+        "geom_id": "35470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630874594183329,
+          46.52854179618625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10355",
+        "num": "66.0",
+        "folio": "160",
+        "parcel_id": "66",
+        "merge_id": "160f66",
+        "geom_id": "35812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629184598403876,
+          46.53018339054373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10406",
+        "num": "67.0",
+        "folio": "158",
+        "parcel_id": "67",
+        "merge_id": "158f67",
+        "geom_id": "35461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630966109166866,
+          46.52864626413582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10407",
+        "num": "67.0",
+        "folio": "160",
+        "parcel_id": "67",
+        "merge_id": "160f67",
+        "geom_id": "35829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629098600629671,
+          46.52985924925646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10417",
+        "num": "67.2",
+        "folio": "160",
+        "parcel_id": "67-2",
+        "merge_id": "160f67-2",
+        "geom_id": "35829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628798305155773,
+          46.52956245688937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10458",
+        "num": "68.0",
+        "folio": "158",
+        "parcel_id": "68",
+        "merge_id": "158f68",
+        "geom_id": "35467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631019530093883,
+          46.5286027661816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10459",
+        "num": "68.0",
+        "folio": "160",
+        "parcel_id": "68",
+        "merge_id": "160f68",
+        "geom_id": "35815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629588386339785,
+          46.53022159652982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10506",
+        "num": "69.0",
+        "folio": "158",
+        "parcel_id": "69",
+        "merge_id": "158f69",
+        "geom_id": "35455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631059984818618,
+          46.52870400272991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10507",
+        "num": "69.0",
+        "folio": "160",
+        "parcel_id": "69",
+        "merge_id": "160f69",
+        "geom_id": "35803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629626653593684,
+          46.53031518902953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10553",
+        "num": "70.0",
+        "folio": "158",
+        "parcel_id": "70",
+        "merge_id": "158f70",
+        "geom_id": "35457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630745046748541,
+          46.52861887954395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10554",
+        "num": "70.0",
+        "folio": "160",
+        "parcel_id": "70",
+        "merge_id": "160f70",
+        "geom_id": "35809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629680947161406,
+          46.53027848379022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10600",
+        "num": "71.0",
+        "folio": "158",
+        "parcel_id": "71",
+        "merge_id": "158f71",
+        "geom_id": "35463"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631049872454176,
+          46.52862994002167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10601",
+        "num": "71.0",
+        "folio": "160",
+        "parcel_id": "71",
+        "merge_id": "160f71",
+        "geom_id": "35817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629436715895626,
+          46.53012425145827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10647",
+        "num": "72.0",
+        "folio": "158",
+        "parcel_id": "72",
+        "merge_id": "158f72",
+        "geom_id": "35462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631087925022316,
+          46.52858604585904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10648",
+        "num": "72.0",
+        "folio": "160",
+        "parcel_id": "72",
+        "merge_id": "160f72",
+        "geom_id": "35826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629336599469184,
+          46.5297743982809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10692",
+        "num": "73.0",
+        "folio": "158",
+        "parcel_id": "73",
+        "merge_id": "158f73",
+        "geom_id": "35482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630867019347663,
+          46.52835704550195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10693",
+        "num": "73.0",
+        "folio": "160",
+        "parcel_id": "73",
+        "merge_id": "160f73",
+        "geom_id": "35839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629176288271856,
+          46.529855387765906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10740",
+        "num": "74.0",
+        "folio": "158",
+        "parcel_id": "74",
+        "merge_id": "158f74",
+        "geom_id": "35374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630987630674738,
+          46.52917992756761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10741",
+        "num": "74.0",
+        "folio": "160",
+        "parcel_id": "74",
+        "merge_id": "160f74",
+        "geom_id": "35870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629029959174686,
+          46.529714805831055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10784",
+        "num": "75.0",
+        "folio": "158",
+        "parcel_id": "75",
+        "merge_id": "158f75",
+        "geom_id": "35478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630952383705623,
+          46.52825731233112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10785",
+        "num": "75.0",
+        "folio": "160",
+        "parcel_id": "75",
+        "merge_id": "160f75",
+        "geom_id": "35837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629374528153517,
+          46.53008995379662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10825",
+        "num": "76.0",
+        "folio": "160",
+        "parcel_id": "76",
+        "merge_id": "160f76",
+        "geom_id": "35898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628968528721178,
+          46.52957306327277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10866",
+        "num": "77.0",
+        "folio": "160",
+        "parcel_id": "77",
+        "merge_id": "160f77",
+        "geom_id": "35894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629011875098256,
+          46.529612231243156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10909",
+        "num": "78.0",
+        "folio": "160",
+        "parcel_id": "78",
+        "merge_id": "160f78",
+        "geom_id": "35893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628923466942244,
+          46.52964839832652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10947",
+        "num": "79.0",
+        "folio": "160",
+        "parcel_id": "79",
+        "merge_id": "160f79",
+        "geom_id": "35892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628922734305331,
+          46.52961188951183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10985",
+        "num": "80.0",
+        "folio": "160",
+        "parcel_id": "80",
+        "merge_id": "160f80",
+        "geom_id": "35896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628781814147439,
+          46.529480471743646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11020",
+        "num": "81.0",
+        "folio": "160",
+        "parcel_id": "81",
+        "merge_id": "160f81",
+        "geom_id": "35910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629243902151412,
+          46.52941341134327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11054",
+        "num": "82.0",
+        "folio": "160",
+        "parcel_id": "82",
+        "merge_id": "160f82",
+        "geom_id": "35914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629418684050263,
+          46.52939140172815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11088",
+        "num": "83.0",
+        "folio": "158",
+        "parcel_id": "83",
+        "merge_id": "158f83",
+        "geom_id": "35498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632213146263147,
+          46.52802166242689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11089",
+        "num": "83.0",
+        "folio": "160",
+        "parcel_id": "83",
+        "merge_id": "160f83",
+        "geom_id": "35907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62934288586376,
+          46.52932609667594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11122",
+        "num": "84.0",
+        "folio": "158",
+        "parcel_id": "84",
+        "merge_id": "158f84",
+        "geom_id": "35517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632519552824022,
+          46.52795318563804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11123",
+        "num": "84.0",
+        "folio": "160",
+        "parcel_id": "84",
+        "merge_id": "160f84",
+        "geom_id": "35903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629038807794295,
+          46.529351893796935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11153",
+        "num": "85.0",
+        "folio": "158",
+        "parcel_id": "85",
+        "merge_id": "158f85",
+        "geom_id": "35252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630587836493996,
+          46.530018134999196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11154",
+        "num": "85.0",
+        "folio": "160",
+        "parcel_id": "85",
+        "merge_id": "160f85",
+        "geom_id": "35859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629600608898467,
+          46.529832508393156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11183",
+        "num": "86.0",
+        "folio": "158",
+        "parcel_id": "86",
+        "merge_id": "158f86",
+        "geom_id": "35258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630705097731382,
+          46.53001266075712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11184",
+        "num": "86.0",
+        "folio": "160",
+        "parcel_id": "86",
+        "merge_id": "160f86",
+        "geom_id": "35865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629752172031601,
+          46.52982299119391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11213",
+        "num": "87.0",
+        "folio": "158",
+        "parcel_id": "87",
+        "merge_id": "158f87",
+        "geom_id": "35257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630696322414753,
+          46.52990476681997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11214",
+        "num": "87.0",
+        "folio": "160",
+        "parcel_id": "87",
+        "merge_id": "160f87",
+        "geom_id": "35872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629756750567293,
+          46.52977356736884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11240",
+        "num": "88.0",
+        "folio": "158",
+        "parcel_id": "88",
+        "merge_id": "158f88",
+        "geom_id": "35253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630830235763835,
+          46.5300362078366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11241",
+        "num": "88.0",
+        "folio": "160",
+        "parcel_id": "88",
+        "merge_id": "160f88",
+        "geom_id": "35843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629275639803716,
+          46.529601160192485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11267",
+        "num": "89.0",
+        "folio": "158",
+        "parcel_id": "89",
+        "merge_id": "158f89",
+        "geom_id": "35299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630877503983735,
+          46.52987623111554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11268",
+        "num": "89.0",
+        "folio": "160",
+        "parcel_id": "89",
+        "merge_id": "160f89",
+        "geom_id": "35911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62948308180444,
+          46.529448971448886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11292",
+        "num": "90.0",
+        "folio": "158",
+        "parcel_id": "90",
+        "merge_id": "158f90",
+        "geom_id": "35259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630870979799819,
+          46.52995132253887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11293",
+        "num": "90.0",
+        "folio": "160",
+        "parcel_id": "90",
+        "merge_id": "160f90",
+        "geom_id": "35824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629714891897489,
+          46.53003438645558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11320",
+        "num": "91.1",
+        "folio": "160",
+        "parcel_id": "91-1",
+        "merge_id": "160f91-1",
+        "geom_id": "35878"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62938503957848,
+          46.52923051996944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11344",
+        "num": "92.0",
+        "folio": "158",
+        "parcel_id": "92",
+        "merge_id": "158f92",
+        "geom_id": "35333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630777840585278,
+          46.529732989017866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11345",
+        "num": "92.0",
+        "folio": "160",
+        "parcel_id": "92",
+        "merge_id": "160f92",
+        "geom_id": "35860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629903721140406,
+          46.52984291206479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11369",
+        "num": "93.0",
+        "folio": "158",
+        "parcel_id": "93",
+        "merge_id": "158f93",
+        "geom_id": "35313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630857368357852,
+          46.52983335668447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11370",
+        "num": "93.0",
+        "folio": "160",
+        "parcel_id": "93",
+        "merge_id": "160f93",
+        "geom_id": "35866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62986750095239,
+          46.52981203798183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11394",
+        "num": "94.0",
+        "folio": "158",
+        "parcel_id": "94",
+        "merge_id": "158f94",
+        "geom_id": "35306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630901976955976,
+          46.52960109100481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11395",
+        "num": "94.0",
+        "folio": "160",
+        "parcel_id": "94",
+        "merge_id": "160f94",
+        "geom_id": "35771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629164404845968,
+          46.53059185111131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11418",
+        "num": "95.0",
+        "folio": "158",
+        "parcel_id": "95",
+        "merge_id": "158f95",
+        "geom_id": "35305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630999788461422,
+          46.52931213366175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11419",
+        "num": "95.0",
+        "folio": "160",
+        "parcel_id": "95",
+        "merge_id": "160f95",
+        "geom_id": "35795"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629461707509197,
+          46.530506245390235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11445",
+        "num": "96.0",
+        "folio": "158",
+        "parcel_id": "96",
+        "merge_id": "158f96",
+        "geom_id": "35332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630654872124616,
+          46.529592161942034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11446",
+        "num": "96.0",
+        "folio": "160",
+        "parcel_id": "96",
+        "merge_id": "160f96",
+        "geom_id": "35787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629550816102586,
+          46.530594312808056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11470",
+        "num": "97.0",
+        "folio": "158",
+        "parcel_id": "97",
+        "merge_id": "158f97",
+        "geom_id": "35369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630691253230907,
+          46.52935438881747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11471",
+        "num": "97.0",
+        "folio": "160",
+        "parcel_id": "97",
+        "merge_id": "160f97",
+        "geom_id": "35763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629371513379502,
+          46.53077555200535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11495",
+        "num": "98.0",
+        "folio": "158",
+        "parcel_id": "98",
+        "merge_id": "158f98",
+        "geom_id": "35360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630676946168757,
+          46.529421968381264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11496",
+        "num": "98.0",
+        "folio": "160",
+        "parcel_id": "98",
+        "merge_id": "160f98",
+        "geom_id": "35810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627177125182603,
+          46.53010988017361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11518",
+        "num": "99.0",
+        "folio": "158",
+        "parcel_id": "99",
+        "merge_id": "158f99",
+        "geom_id": "35357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630645664347003,
+          46.52948541206102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11542",
+        "num": "100.0",
+        "folio": "158",
+        "parcel_id": "100",
+        "merge_id": "158f100",
+        "geom_id": "35356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630570262273839,
+          46.52938708112182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11629",
+        "num": "104.0",
+        "folio": "158",
+        "parcel_id": "104",
+        "merge_id": "158f104",
+        "geom_id": "35482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631001164893513,
+          46.528385825403866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11649",
+        "num": "105.0",
+        "folio": "158",
+        "parcel_id": "105",
+        "merge_id": "158f105",
+        "geom_id": "35478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631243125019577,
+          46.52804340456773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11669",
+        "num": "106.0",
+        "folio": "158",
+        "parcel_id": "106",
+        "merge_id": "158f106",
+        "geom_id": "35478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631631787302674,
+          46.52811643223041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11690",
+        "num": "107.0",
+        "folio": "158",
+        "parcel_id": "107",
+        "merge_id": "158f107",
+        "geom_id": "35477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631925204917595,
+          46.528195664242844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11710",
+        "num": "108.0",
+        "folio": "158",
+        "parcel_id": "108",
+        "merge_id": "158f108",
+        "geom_id": "35498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632267322995363,
+          46.52799075017353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11730",
+        "num": "109.0",
+        "folio": "158",
+        "parcel_id": "109",
+        "merge_id": "158f109",
+        "geom_id": "35270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6301174064243,
+          46.52991039370982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11750",
+        "num": "110.0",
+        "folio": "158",
+        "parcel_id": "110",
+        "merge_id": "158f110",
+        "geom_id": "35322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630210992037097,
+          46.52976537337128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11769",
+        "num": "111.0",
+        "folio": "158",
+        "parcel_id": "111",
+        "merge_id": "158f111",
+        "geom_id": "35335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630481349724152,
+          46.5296365250585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12955",
+        "num": "10.0",
+        "folio": "159",
+        "parcel_id": "10",
+        "merge_id": "159f10",
+        "geom_id": "35611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63076113446625,
+          46.53042869683228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12989",
+        "num": "11.0",
+        "folio": "160",
+        "parcel_id": "11",
+        "merge_id": "160f11",
+        "geom_id": "35810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627135359347397,
+          46.5301386275853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13048",
+        "num": "13.0",
+        "folio": "176",
+        "parcel_id": "13",
+        "merge_id": "176f13",
+        "geom_id": "37554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628642227291902,
+          46.531569348517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13074",
+        "num": "14.0",
+        "folio": "159",
+        "parcel_id": "14",
+        "merge_id": "159f14",
+        "geom_id": "35564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629736196124626,
+          46.53102573459408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13096",
+        "num": "15.0",
+        "folio": "176",
+        "parcel_id": "15",
+        "merge_id": "176f15",
+        "geom_id": "37547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628652086214564,
+          46.53161597067412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13149",
+        "num": "17.0",
+        "folio": "158",
+        "parcel_id": "17",
+        "merge_id": "158f17",
+        "geom_id": "35252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630700772637256,
+          46.53003966828028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13176",
+        "num": "18.0",
+        "folio": "158",
+        "parcel_id": "18",
+        "merge_id": "158f18",
+        "geom_id": "35257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630746301044696,
+          46.52995776043989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13177",
+        "num": "18.0",
+        "folio": "176",
+        "parcel_id": "18",
+        "merge_id": "176f18",
+        "geom_id": "35710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628721542144091,
+          46.53147288507913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13220",
+        "num": "19.0",
+        "folio": "158",
+        "parcel_id": "19",
+        "merge_id": "158f19",
+        "geom_id": "35306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630769183740532,
+          46.52960673026701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13226",
+        "num": "19.0",
+        "folio": "176",
+        "parcel_id": "19",
+        "merge_id": "176f19",
+        "geom_id": "37550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628873520792173,
+          46.53159528729378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13325",
+        "num": "20.0",
+        "folio": "176",
+        "parcel_id": "20",
+        "merge_id": "176f20",
+        "geom_id": "37473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62888399345851,
+          46.53239047518658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13342",
+        "num": "21.2",
+        "folio": "158",
+        "parcel_id": "21-2",
+        "merge_id": "158f21-2",
+        "geom_id": "35335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630461301763418,
+          46.529715565752376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13507",
+        "num": "29.0",
+        "folio": "158",
+        "parcel_id": "29",
+        "merge_id": "158f29",
+        "geom_id": "35405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630087570786473,
+          46.52905059378826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13544",
+        "num": "3.0",
+        "folio": "158",
+        "parcel_id": "3",
+        "merge_id": "158f3",
+        "geom_id": "35270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630152824188379,
+          46.52992151091753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13571",
+        "num": "32.1",
+        "folio": "176",
+        "parcel_id": "32-1",
+        "merge_id": "176f32-1",
+        "geom_id": "37530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629903915630012,
+          46.53188026275964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13572",
+        "num": "32.2",
+        "folio": "176",
+        "parcel_id": "32-2",
+        "merge_id": "176f32-2",
+        "geom_id": "37536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629975297701064,
+          46.53181634307119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13573",
+        "num": "32.3",
+        "folio": "176",
+        "parcel_id": "32-3",
+        "merge_id": "176f32-3",
+        "geom_id": "37528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630006191464309,
+          46.53188607814328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13627",
+        "num": "39.0",
+        "folio": "158",
+        "parcel_id": "39",
+        "merge_id": "158f39",
+        "geom_id": "35407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630299114222713,
+          46.52902716431913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13664",
+        "num": "44.0",
+        "folio": "160",
+        "parcel_id": "44",
+        "merge_id": "160f44",
+        "geom_id": "35771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628692634580914,
+          46.530551929321305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13665",
+        "num": "44.0",
+        "folio": "176",
+        "parcel_id": "44",
+        "merge_id": "176f44",
+        "geom_id": "37550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628871587285277,
+          46.53156774722715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13689",
+        "num": "49.0",
+        "folio": "158",
+        "parcel_id": "49",
+        "merge_id": "158f49",
+        "geom_id": "35391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630787385192596,
+          46.52913721700679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13717",
+        "num": "53.0",
+        "folio": "160",
+        "parcel_id": "53",
+        "merge_id": "160f53",
+        "geom_id": "35763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629266931571641,
+          46.53082755579073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13721",
+        "num": "54.0",
+        "folio": "160",
+        "parcel_id": "54",
+        "merge_id": "160f54",
+        "geom_id": "35791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629502468868683,
+          46.5305462654217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13751",
+        "num": "67.2",
+        "folio": "160",
+        "parcel_id": "67-2",
+        "merge_id": "160f67-2",
+        "geom_id": "35829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628798291980225,
+          46.52956243627489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13753",
+        "num": "68.0",
+        "folio": "158",
+        "parcel_id": "68",
+        "merge_id": "158f68",
+        "geom_id": "35482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630867006166961,
+          46.52835702488938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13755",
+        "num": "69.0",
+        "folio": "158",
+        "parcel_id": "69",
+        "merge_id": "158f69",
+        "geom_id": "35374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63098761749409,
+          46.529179906954326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13789",
+        "num": "70.0",
+        "folio": "158",
+        "parcel_id": "70",
+        "merge_id": "158f70",
+        "geom_id": "35478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630952370524687,
+          46.52825729171867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13806",
+        "num": "78.0",
+        "folio": "158",
+        "parcel_id": "78",
+        "merge_id": "158f78",
+        "geom_id": "35498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632213133079271,
+          46.52802164181518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13810",
+        "num": "79.0",
+        "folio": "158",
+        "parcel_id": "79",
+        "merge_id": "158f79",
+        "geom_id": "35517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632519539639425,
+          46.527953165026574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13852",
+        "num": "9.0",
+        "folio": "159",
+        "parcel_id": "9",
+        "merge_id": "159f9",
+        "geom_id": "35559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630179008014399,
+          46.53110979408149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13878",
+        "num": "90.0",
+        "folio": "160",
+        "parcel_id": "90",
+        "merge_id": "160f90",
+        "geom_id": "35824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62971487872006,
+          46.53003436584098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13880",
+        "num": "91.1",
+        "folio": "160",
+        "parcel_id": "91-1",
+        "merge_id": "160f91-1",
+        "geom_id": "35878"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629385026401474,
+          46.52923049935543
+        ]
+      }
+    }
+  ]
+}
