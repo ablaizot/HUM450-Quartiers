@@ -1,2 +1,2 @@
 # HUM450-Quartiers
-Analyse de quartiers
+Analyse de quartiers: Pontaise et Prélaz
