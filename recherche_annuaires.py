@@ -15,6 +15,56 @@ except ImportError:
     HAS_LEVENSHTEIN = False
 
 
+def load_place_names_from_path(path_str: str) -> List[str]:
+    """
+    Load place names from either a single file or from all files in a directory.
+    Removes duplicate place names automatically.
+    
+    Args:
+        path_str: Path to a file or directory
+    
+    Returns:
+        List of unique place names read from the file(s)
+    
+    Raises:
+        FileNotFoundError: If the path doesn't exist
+        ValueError: If a directory is empty
+    """
+    path = Path(path_str)
+    place_names_set = set()
+    
+    if not path.exists():
+        raise FileNotFoundError(f"Path not found: {path}")
+    
+    if path.is_dir():
+        # Read all files in the directory
+        files = [f for f in path.iterdir() if f.is_file()]
+        if not files:
+            raise ValueError(f"No files found in directory: {path}")
+        
+        print(f"📁 Reading from {len(files)} file(s) in directory: {path}")
+        for file_path in files:
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    file_names = [line.strip() for line in f if line.strip()]
+                    initial_count = len(place_names_set)
+                    place_names_set.update(file_names)
+                    new_count = len(place_names_set) - initial_count
+                    print(f"  ✓ {file_path.name}: {len(file_names)} place name(s) read, {new_count} new unique")
+            except Exception as e:
+                print(f"  ⚠ Warning: Could not read {file_path.name}: {e}")
+    else:
+        # Read single file
+        with open(path, 'r', encoding='utf-8') as f:
+            file_names = [line.strip() for line in f if line.strip()]
+            place_names_set.update(file_names)
+        print(f"📄 Reading from file: {path.name} ({len(file_names)} place name(s) read, {len(place_names_set)} unique)")
+    
+    place_names = sorted(list(place_names_set))
+    print(f"📋 Total unique place names loaded: {len(place_names)}")
+    return place_names
+
+
 def find_location_column(df: pd.DataFrame, sheet_name: str) -> str:
     """
     Find a location column in the dataframe.
@@ -89,7 +139,7 @@ def isMatch(cell_value: str, place_name: str, case_sensitive: bool, threshold: f
     for word in words:
         similarity = calculate_similarity(search_term, word)
         if similarity >= threshold:
-            print(similarity)
+            #print(similarity)
             return True
     
     # 3. Try matching place_name words against cell_value words
@@ -145,7 +195,7 @@ def search_place_names(
         fuzzy_threshold: Similarity threshold (0-1) for fuzzy matching
     
     Returns:
-        Dictionary with sheet names as keys and lists of match results as values.
+        Dictionary with place name as keys and lists of match results as values.
         Each result contains: sheet, row, column, cell_value, place_name_found
     """
     excel_file = Path(excel_file)
@@ -156,7 +206,8 @@ def search_place_names(
     if not excel_file.suffix.lower() in ['.xlsx', '.xls']:
         raise ValueError(f"File must be an Excel file (.xlsx or .xls): {excel_file}")
     
-    results = {}
+    # Initialize result buckets for each target place name
+    results = {place_name: [] for place_name in place_names}
     
     try:
         # Read all sheets
@@ -168,7 +219,6 @@ def search_place_names(
             
             # Find the location column
             location_col = find_location_column(df, sheet_name)
-            sheet_results = []
             
             # Search through the location column only
             for row_idx, cell_value in df[location_col].items():
@@ -182,7 +232,7 @@ def search_place_names(
                     if isMatch(cell_str, place_name, case_sensitive, fuzzy_threshold):
                         # Get the entire row
                         row_data = df.iloc[row_idx].to_dict()
-                        sheet_results.append({
+                        results[place_name].append({
                             'row': row_idx + 2,  # +2 because pandas uses 0-indexing and excluding header
                             'column': location_col,
                             'cell_value': cell_str,
@@ -190,9 +240,6 @@ def search_place_names(
                             'sheet': sheet_name,
                             'row_data': row_data
                         })
-            
-            if sheet_results:
-                results[sheet_name] = sheet_results
     
     except Exception as e:
         print(f"Error reading Excel file: {e}")
@@ -201,49 +248,62 @@ def search_place_names(
     return results
 
 
-def save_results(results: Dict[str, List[Dict]], excel_file: str) -> str:
+def sanitize_sheet_name(name: str) -> str:
+    """Make sheet names valid for Excel: <=31 chars, no invalid chars."""
+    invalid = ['\n', '\r', '\t', ':', '\\', '/', '?', '*', '[', ']']
+    sanitized = ''.join('_' if c in invalid else c for c in name)
+    sanitized = sanitized[:31]
+    if len(sanitized.strip()) == 0:
+        sanitized = 'Sheet'
+    return sanitized
+
+
+def save_results(results: Dict[str, List[Dict]], excel_file: str, output_filename: str = None) -> str:
     """
     Save search results to an Excel file with name derived from the Excel file.
-    
+
+    Each place name gets its own sheet.
+
     Args:
-        results: Dictionary of search results
+        results: Dictionary of search results, keyed by place name
         excel_file: Path to the original Excel file
-    
+        output_filename: Optional custom output filename. If None, uses default naming.
+
     Returns:
         Path to the output file
     """
-    if not results:
+    filtered_results = {name: matches for name, matches in results.items() if matches}
+    if not filtered_results:
         print("No matches found. No output file created.")
         return ""
-    
-    # Generate output filename based on input file
+
     excel_path = Path(excel_file)
-    output_file = excel_path.parent / f"{excel_path.stem}_results.xlsx"
-    
-    total_matches = sum(len(matches) for matches in results.values())
-    
-    # Prepare data for Excel output
-    output_data = []
-    for sheet_name, matches in results.items():
-        for match in matches:
-            row_entry = {
-                'Sheet': match['sheet'],
-                'Row': match['row'],
-                'Place Name Found': match['place_name'],
-                'Cell Value': match['cell_value']
-            }
-            # Add all columns from the original row
-            for col_name, col_value in match['row_data'].items():
-                row_entry[f"Original_{col_name}"] = col_value
-            
-            output_data.append(row_entry)
-    
-    # Create DataFrame from the output data
-    df_output = pd.DataFrame(output_data)
-    
-    # Write to Excel
-    df_output.to_excel(output_file, index=False)
-    
+    if output_filename:
+        output_file = excel_path.parent.parent / "Resultats" / output_filename
+    else:
+        output_file = excel_path.parent.parent / "Resultats" / f"{excel_path.stem}_results.xlsx"
+
+    total_matches = sum(len(matches) for matches in filtered_results.values())
+
+    with pd.ExcelWriter(output_file, engine='openpyxl') as writer:
+        for place_name, matches in filtered_results.items():
+            # Prepare per-place data
+            row_entries = []
+            for match in matches:
+                row_entry = {
+                    'Original Sheet': match['sheet'],
+                    'Row': match['row'],
+                    'Place Name Found': match['place_name'],
+                    'Cell Value': match['cell_value']
+                }
+                for col_name, col_value in match['row_data'].items():
+                    row_entry[f"Original_{col_name}"] = col_value
+                row_entries.append(row_entry)
+
+            df_output = pd.DataFrame(row_entries)
+            sheet_name = sanitize_sheet_name(place_name)
+            df_output.to_excel(writer, sheet_name=sheet_name, index=False)
+
     print(f"\n✓ Results saved to: {output_file}")
     print(f"  Total matches: {total_matches}")
     return str(output_file)
@@ -254,18 +314,21 @@ def print_results(results: Dict[str, List[Dict]]) -> None:
     if not results:
         print("No matches found.")
         return
-    
+
     total_matches = sum(len(matches) for matches in results.values())
     print(f"\nFound {total_matches} match(es):\n")
     print("=" * 100)
-    
-    for sheet_name, matches in results.items():
-        print(f"\nSheet: {sheet_name}")
+
+    for place_name, matches in results.items():
+        print(f"\nPlace name: {place_name}")
         print("-" * 100)
-        
+
+        if not matches:
+            print("  No matches")
+            continue
+
         for match in matches:
-            print(f"  Row {match['row']}, Column '{match['column']}'")
-            print(f"    Place name: {match['place_name']}")
+            print(f"  Row {match['row']}, Column '{match['column']}', Sheet '{match['sheet']}'")
             print(f"    Cell value: {match['cell_value'][:100]}")  # Limit to 100 chars
             print()
 
@@ -273,7 +336,7 @@ def print_results(results: Dict[str, List[Dict]]) -> None:
 def main():
     """Main function to run the search interactively."""
     if len(sys.argv) < 2:
-        print("Usage: python recherche_annuaires.py <excel_file> [place_name1] [place_name2] ...")
+        print("Usage: python recherche_annuaires.py <excel_file> [place_names_file_or_directory]")
         print("\nInteractive mode:")
         excel_file = input("Enter the path to the Excel file: ").strip()
     else:
@@ -281,13 +344,12 @@ def main():
     
     # Get place names
     if len(sys.argv) > 2:
-        nameFile = sys.argv[2]
-        if not Path(nameFile).exists():
-            print(f"Place names file not found: {nameFile}")
+        nameSource = sys.argv[2]
+        try:
+            place_names = load_place_names_from_path(nameSource)
+        except (FileNotFoundError, ValueError) as e:
+            print(f"Error: {e}")
             return
-        with open(nameFile, 'r', encoding='utf-8') as f:
-            place_names = [line.strip() for line in f if line.strip()]
-
     else:
         print("Enter place names to search for (one per line, empty line to start search):")
         place_names = []
@@ -301,14 +363,22 @@ def main():
         print("No place names provided.")
         return
     
-    print(f"\nSearching for: {place_names}")
+    print(f"\nSearching for {len(place_names)} place name(s)")
     print(f"File: {excel_file}")
     print(f"Matching mode: Fuzzy (Levenshtein distance)" if HAS_LEVENSHTEIN else "Matching mode: Fuzzy (difflib)")
     print()
     
     results = search_place_names(excel_file, place_names)
     #print_results(results)
-    save_results(results, excel_file)
+    
+    # Ask user for output filename
+    output_filename = input("\nEnter output filename (press Enter for default naming): ").strip()
+    if not output_filename:
+        output_filename = None
+    elif not output_filename.endswith('.xlsx'):
+        output_filename += '.xlsx'
+    
+    save_results(results, excel_file, output_filename)
 
 
 if __name__ == "__main__":
