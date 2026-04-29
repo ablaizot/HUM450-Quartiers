@@ -1,0 +1,870 @@
+Job Name,Count
+[],412
+['vve'],71
+['ménagère'],36
+['couturière'],35
+['menuisier'],34
+['veuve'],33
+['jardinier'],29
+['maçon'],29
+"['domestique,']",26
+['man.'],24
+['manœuvre'],24
+['peintre'],21
+['agriculteur'],20
+['rentière'],20
+['mécanicien'],18
+['serrurier'],18
+"['employé,']",17
+['cordonnier'],16
+['journalier'],16
+['étudiant'],15
+['chauffeur'],14
+['représentant'],14
+['étud'],14
+['charpentier'],13
+['cuisinière'],13
+['ferblantier'],13
+['ébéniste'],13
+['boulanger'],12
+['coiffeur'],12
+['man'],12
+['comptable'],11
+['professeur'],11
+['typographe'],11
+['employé'],10
+['vendeuse'],10
+['cafetier'],9
+['horloger'],9
+['institutrice'],9
+"['manœuvre,']",9
+['sommelière'],9
+['typo'],9
+['boucher'],8
+['magasinier'],8
+['rentier'],8
+['repasseuse'],8
+['tapissier'],8
+['épicerie'],8
+"['étudiant,']",8
+['charron'],7
+['employé postal'],7
+['imprimeur'],7
+['lingère'],7
+['religieuse'],7
+['architecte'],6
+['commerçant'],6
+['concierge'],6
+['coutur.'],6
+['emp. bur'],6
+['journalière'],6
+['modiste'],6
+['monteur'],6
+['pasteur'],6
+['portier'],6
+['tailleur'],6
+['technicien'],6
+['vigneron'],6
+"['empi, banque']",5
+"['empi, postal']",5
+['instituteur'],5
+['laitier'],5
+['musicien'],5
+['mécan.'],5
+['pension'],5
+['plâtrier'],5
+['vend'],5
+['blanchisseuse'],4
+['bûcheron'],4
+['carrossier'],4
+['charretier'],4
+['demoiselle de magasin'],4
+['domestique'],4
+['emp. comm'],4
+"['empi, bur.']",4
+"['empi, bureau']",4
+"['empi, de bureau']",4
+['employé trams'],4
+['entrepreneur'],4
+['ingénieur'],4
+"['journalière,']",4
+['maréchal'],4
+['médecin'],4
+['relieur'],4
+['rent'],4
+['tailleur de pierres'],4
+['vendeur'],4
+['électricien'],4
+['agent de police'],3
+['ancien pasteur'],3
+['camionneur'],3
+['charcutier'],3
+['cimenteur'],3
+['coiffeuse'],3
+"['commis,']",3
+['commissionnaire'],3
+['confiseur'],3
+['dessinateur'],3
+"['empi, de comm']",3
+"['employéj.-s.,']",3
+['garagiste'],3
+['machiniste'],3
+['menuis'],3
+['mécanic.'],3
+['mén.'],3
+['négociant'],3
+['ouvr. de ville'],3
+['parqueteur'],3
+['paveur'],3
+['pharmacien'],3
+['photogr.'],3
+"['prof', '.']",3
+['retraité'],3
+['secrétaire'],3
+['sommel'],3
+"['sténo', 'dactylo']",3
+['tanneur'],3
+['terrassier'],3
+['tonnelier'],3
+['vannier'],3
+['épicier'],3
+['appareilleur'],2
+['avocat'],2
+['batelier'],2
+['brosseur'],2
+['caissier'],2
+['carreleur'],2
+['commis postal'],2
+['cuisin'],2
+['cuisinier'],2
+['dactylo'],2
+['domestique.'],2
+['droguiste'],2
+['emp. banque'],2
+['emp. commerce'],2
+['emp. t.l.'],2
+['empi'],2
+"['empi, de bur']",2
+"['empi, debur.']",2
+"['empi, d’hôtel']",2
+['empi. bur.'],2
+['empi. t. l.'],2
+['employé de banque'],2
+['employé de commerce'],2
+"['employé j.-s.,']",2
+['encaisseur'],2
+['facteur'],2
+['femme de chambre'],2
+['fleuriste'],2
+['fondeur'],2
+['forain'],2
+['fourreur'],2
+['fourreuse'],2
+['garçon de magasin'],2
+['gypsier'],2
+['géomètre breveté'],2
+['horticulteur'],2
+['instit'],2
+"['institutrice,']",2
+['journal'],2
+['lithographe'],2
+['m. jardinier'],2
+['manœuv.'],2
+['margeuse'],2
+['meunier'],2
+['mêcan.'],2
+['notaire'],2
+['nurse'],2
+['négoc'],2
+['négociante'],2
+['ouv. cff'],2
+['ouv. fahr'],2
+['ouvr. de fabr'],2
+['ouvr. de fahr'],2
+['ouvrier deville'],2
+['palefrenier'],2
+['pensionnat dedemoiselles'],2
+['photograveur'],2
+['pierriste'],2
+['plâtrier-peintre'],2
+['poëlier'],2
+['primeurs'],2
+['professeur à l’académie'],2
+['représentant de commerce'],2
+['représentations'],2
+['régente'],2
+['scieur'],2
+"['secrétaire,']",2
+['sommelier'],2
+['sténo'],2
+['sœur de charité'],2
+['tabacs'],2
+"['tabacs,']",2
+['tailleur depierres'],2
+['téléphoniste'],2
+"['veuve', 'rentière']",2
+['viticulteur'],2
+['vitrier'],2
+['voyageur de commerce'],2
+"['vve', 'repasseuse']",2
+['éditeur'],2
+['électr.'],2
+['étalagiste'],2
+['évangéliste'],2
+"[""empi, d'hôtel""]",1
+"[""l'avenir""]",1
+"[""prof, d'hygiène""]",1
+"[""substitut de l'officier d'état""]",1
+"[', tailleur de pierres']",1
+"[',mécanicien']",1
+['. de commerce'],1
+['. typo'],1
+['.journalier'],1
+['.représent.'],1
+['.serrurier'],1
+['a ne. insp. du bétail'],1
+"['a', ':', 've']",1
+['accordeur de pianos'],1
+['adm. impi.caroline s.a'],1
+['admi-nist. b. c. v.'],1
+['afficheur'],1
+['ag. de police'],1
+['ag. dé police'],1
+['agent depolice'],1
+['agent depublicité'],1
+['agent d’as-sur'],1
+['agent d’assur'],1
+['agent générald’assurances'],1
+['agentde police'],1
+['agricult'],1
+['agt de police'],1
+"['ajusteur cff,']",1
+['ajusteur cff..'],1
+"['alluni', 'de gaz']",1
+['anc. direct'],1
+['anc. pasteur'],1
+['anc. prof'],1
+['anc. tonnel.'],1
+['ancien boucher'],1
+['ancien cafetier'],1
+['ancien instituteur'],1
+"['anciengendarme,']",1
+['appareil-leur'],1
+['appareill'],1
+['appareillent'],1
+['appareilleur.rue'],1
+"['appareilsélectriques,']",1
+['apprentie couturière'],1
+['archit'],1
+['archiviste cantonal'],1
+"['art. bronze,aven, des oiseaux 5']",1
+['artiste dramat'],1
+['artiste-musicien et accordeur de pianos'],1
+['artiste-peintre'],1
+['artistepeintre'],1
+['assistant-pharmacien'],1
+['assistante pharmac.'],1
+"['at elise,', 'vve', 'camionn']",1
+['at. de tapissier'],1
+"['atei', 'électro-mécanique,']",1
+['auto-écolè'],1
+['autos d’occasion'],1
+['aven'],1
+"['avocat', '-18']",1
+['avocat(bureau)'],1
+['banquier'],1
+['bijoutier'],1
+['biscuiterie'],1
+['blanchisseur'],1
+['boiseur'],1
+['bonne'],1
+['bonneterie'],1
+['bottier-cordonnier'],1
+['boucheir'],1
+['bouchère'],1
+['boul'],1
+"['boulanger,']",1
+['brasseur'],1
+"['brig, de police']",1
+['brigad. police'],1
+['brigadier de police'],1
+['buraliste'],1
+"['cafetier', 'café des abattoirs']",1
+['café de la placed’armes'],1
+['café des lauriers'],1
+['café deslauriers.'],1
+['café du stand'],1
+['café-brasseriebeauregard'],1
+['cafés et thés'],1
+['caissière'],1
+['camp'],1
+['candidat en médecine'],1
+"['cantine descasernes,']",1
+['cantinier auxcasernes'],1
+['capitaine-instruct'],1
+['capitaine-instructeur'],1
+['carrelages et revêtements'],1
+['carrier'],1
+['carrossiers'],1
+['casernier'],1
+['caviste'],1
+"['chapelier', 'la brune,,rue']",1
+['chapelier'],1
+['chargeur à lavoirie'],1
+['charpent'],1
+"['charpentier', ', 41.']",1
+"['charpentier', 'épicerie,mercerie']",1
+"['charretier', 'm. porchet']",1
+['chaudronni'],1
+['chauff. d’auto'],1
+['chauff.'],1
+['chauff.a.l.'],1
+['chauff.au gaz'],1
+"['chauffage etventilation,']",1
+['chauffeur auto'],1
+['chauffeur-livreur'],1
+['chef compt.'],1
+['chef céramique'],1
+['chef de bur.cff'],1
+['chef de gare gff.retr..'],1
+['chef de pensionnat de demois'],1
+['chef de servicepolice administr'],1
+['chef de silo'],1
+['chef démarcheuse'],1
+"['chef d’équipett,']",1
+['chefde cuisine'],1
+['chiffonnier'],1
+"['cie,', 'entrepreneurs']",1
+['clos des alpes'],1
+"['cocher', '-gibert']",1
+['coi it'],1
+"['coiffeur', '. chaucrau.']",1
+['collaborât.'],1
+['comm. dethés et épices'],1
+['commerc.'],1
+['commerce decuirs (tanneries'],1
+['commerçante'],1
+['commis de magasin'],1
+['commis doposte'],1
+"['commis', 'm. pacbe']",1
+"['commis,', 'rose mousse']",1
+"['commispostal,']",1
+['commiss'],1
+['commission'],1
+['commissionn'],1
+['commissionnaire-portefaix'],1
+['compositeur'],1
+['comptable dela commune de lausanne'],1
+"['comptable,']",1
+['cond. cff'],1
+['cond. de trav'],1
+['cond. d’autobus'],1
+['cond. trams'],1
+"['conduct', 'trams']",1
+"['conduct, postepremier secours']",1
+"['conduct, typo']",1
+['conducteur-typo'],1
+"['conducteurtrams,']",1
+['conseil en publicité'],1
+"['contre-inaîtrrmaçon,']",1
+"['contremaître maçon', 'rose mousse']",1
+"['contremaîtremaçon,']",1
+['contrôleur dudépartement des travaux publics'],1
+['contrôleurdes écoles'],1
+['copiste'],1
+"['cordonnier,']",1
+['corsetière'],1
+['coupeur fourreur'],1
+['courtier'],1
+['cout'],1
+['coutur..'],1
+['couvreur'],1
+['cpl gendarm.'],1
+['cpl gendarme'],1
+"['cuisinière', ""l'anémone""]",1
+['culottière'],1
+['cultivateur'],1
+['curé de st-joseph'],1
+['cycles et motos'],1
+['céramiste'],1
+['dame de réception'],1
+"['dame', 'articles divers']",1
+"['dame', 'lingère']",1
+"['dame', 'organiste']",1
+"['dame', 'pension de demoiselles']",1
+"['dame', 'professeur de piano']",1
+"['dame', 'rent']",1
+"['de lausanne,']",1
+['de police'],1
+"['demoiselle', 'maîtresse d’école particulière']",1
+"['dessin, arch']",1
+"['dessinat.-archit,']",1
+"['dessinateur', 'la brune']",1
+['diaconesse'],1
+"['dir. ecole decommerce,']",1
+['dir. imp.vaudoise'],1
+"['direct, de l’orphelinat']",1
+['directeur de l’institut desgardes-malades'],1
+['directrice de l’asile «laretraite'],1
+['dlle de magasin'],1
+['docteur'],1
+['domest.'],1
+['dr ès sciences'],1
+"['dr', '-', 'méd']",1
+['décorateur'],1
+['désinfecteur'],1
+['emballeur'],1
+['emjiloyé de bureau'],1
+['emnl. commerce'],1
+['emo. bur'],1
+['emol.comm.'],1
+"['emp. c. f. f.,r']",1
+['emp. cff'],1
+"['emp. comm', '.,av']",1
+['emp. comm.'],1
+['emp. de banque'],1
+['emp. de bur'],1
+['emp. de consulat'],1
+['emp. d’hôtel'],1
+['emp. hôtel'],1
+['emp. post'],1
+['empailleur dechaises'],1
+"['empi', 'au téléphone']",1
+"['empi, au gaz']",1
+"['empi, aux casernes']",1
+"['empi, banq']",1
+"['empi, bur']",1
+"['empi, cumin.']",1
+"['empi, de banque']",1
+"['empi, de bur.']",1
+"['empi, de commerce']",1
+"['empi, de_ banque']",1
+"['empi, decommerce,']",1
+"['empi, hôtel']",1
+"['empi, librairie']",1
+"['empi, voirie']",1
+"['empi,', 'de bureau']",1
+['empi. abattoirs'],1
+"['empi. b. c. v.,av']",1
+['empi. cff.'],1
+['empi. cff..'],1
+['empi. off'],1
+"['empi. t.-l.,']",1
+['empi. usine à gaz'],1
+['employé ait gaz'],1
+['employé aubureau cantonal des étrangers'],1
+['employé aupénitencier'],1
+"['employé banq.retraité,']",1
+['employé bureau'],1
+['employé debanque'],1
+['employé debureau'],1
+"['employé debureau,']",1
+['employé des forces de joux'],1
+['employé librairie'],1
+['employé maisonde ville'],1
+['employé suisse occid'],1
+['employé téléphoniste'],1
+['employé àla voirie'],1
+['employé île banque'],1
+"['employé,', ', 17.']",1
+['employéau téléphone'],1
+['employéau téléphoné'],1
+['employéaux casernes'],1
+['employéde banque'],1
+['employéde commerce'],1
+['employée bureau'],1
+['employée de comm'],1
+['employée de commerce'],1
+"['employée,']",1
+['employéla chancellerie'],1
+['employés. o.-s.'],1
+"['employétrams,']",1
+"['employétéléphone,']",1
+['encadreur'],1
+"['entrep., admin.autobus lausannois']",1
+['entrepr.'],1
+['exp.-comp-table'],1
+"['exp.-comptable,']",1
+['expert-compt'],1
+['expertcompt.'],1
+['f.cs clochetons'],1
+"['f^u«rab. et', 'pierre richard']",1
+['fabr. d’articles en métal'],1
+"['fabric', 'chaussures']",1
+['fabricant'],1
+['facteur postal'],1
+['facteur retr'],1
+"['fahr, de bijouterie']",1
+"['ferbl.-concierge,']",1
+['ferblant'],1
+['ferblant.. maisonhaller'],1
+['fermier'],1
+['ferrailleur'],1
+['fille d’office'],1
+"['fils', 'emp. decommerce,']",1
+['fleur'],1
+['fonct. fédéral'],1
+['fonct. postal'],1
+['fonctionnaire'],1
+"['fondé pouvoir,']",1
+['fontainier'],1
+['forgeron'],1
+"['françois', 'tapissier']",1
+['frigos'],1
+"['fritz', 'tailleur']",1
+['fruits et légumes'],1
+['g. laitier'],1
+['g.-malade'],1
+['galvanisentrue'],1
+['galvaniseur'],1
+['garde champêtre'],1
+['garde malade'],1
+['garde'],1
+['garde-malade'],1
+"['garde-malades,']",1
+['garde-malades.'],1
+"['garç. de mag', 'maçon']",1
+['garçon boucher'],1
+['garçon de peine'],1
+['gendarme'],1
+['gouv'],1
+['gouvern'],1
+['gouvernante'],1
+"['gouvernante,']",1
+['graphologue'],1
+['graveur surbois'],1
+['greffier dujuge d’instruction'],1
+['greffier juge informateur'],1
+['gvpsier-peintre et épicerie'],1
+['gvpsier-peintre'],1
+['gyps.-peintre.monte'],1
+['gypsier-peintre'],1
+['gypsiers-peintres'],1
+['géomètre'],1
+['géomètrebreveté'],1
+['gér'],1
+['gérances'],1
+['gérant café ch.-de bourg'],1
+['gérant dela société du gaz'],1
+['gérant'],1
+"['gérant,']",1
+"['gérante', 'coopê']",1
+"['hiltbrand emile,', 'épicier']",1
+"['hoirs de m.-f.', 'huis de chauffage']",1
+['homme de lettres'],1
+['huiles pour autos'],1
+['huissier du tribunal'],1
+['huissier-chef trib. fédéra'],1
+['huissierde la direct'],1
+['héliographe'],1
+['héliograveur'],1
+['hôtelier'],1
+['iardinier'],1
+['in. de dessin'],1
+['infirmière'],1
+['ing'],1
+"['ing.-conseil,']",1
+['ingén. cff.'],1
+['ingén.'],1
+['ingénieur neocalor'],1
+['ingénieurcantonal'],1
+"['insp. assurances,']",1
+"['inspect, forestier']",1
+"['inspect. direct,des postes']",1
+['inspecteur dubétail'],1
+['inspecteur forestier'],1
+['inst'],1
+['inst.'],1
+['institut'],1
+['institutrice retraitée'],1
+"['institutrice', 'sq.']",1
+"['intendant casernes,']",1
+['intendant de la caserne'],1
+['jardi-dinier'],1
+['jardinier du cimetière de la pon'],1
+"['jardinier', 'moulin des (']",1
+['journhlière'],1
+['juge cantonal'],1
+['la manufacturelausannoise de biscuits'],1
+['laborant..'],1
+['laiterie'],1
+['lieut.-colonel-instructêur'],1
+['limonadier'],1
+['limonadier.vue de la ponto:se 36'],1
+"['lingère', 'couturière']",1
+"['lingère', 'v. maria']",1
+['lingére'],1
+['lingêre'],1
+['linotypiste'],1
+['liquoriste'],1
+['lithogr.'],1
+['litogr.'],1
+['liugère'],1
+['livreur. monte'],1
+"['louisa', 'épicerie']",1
+['m. charpentier et cafetier'],1
+['m. charretier'],1
+['m. cordonnier'],1
+['m. gypsier-peintre'],1
+['m. tailleur'],1
+['magasin'],1
+"['magasin.-livreur,']",1
+['maitresse de piano'],1
+['maitresse de.pension'],1
+"['man', '.,']",1
+"['man.', 'sommelière']",1
+['manoeuvre'],1
+['manuf. trousseaux'],1
+"['manœuvre ,']",1
+['manœuvre.'],1
+"['march, decombutibles,']",1
+['marchand de combustible et liquoriste'],1
+['marchand de vins'],1
+"['marchand forain', ', 17.']",1
+['marchandde légumes'],1
+['marchande'],1
+['marchandforain'],1
+"['margeur', 'v. beauval,']",1
+['margeur'],1
+['marguer'],1
+"['maréchal', 'aven.druey 30. at']",1
+['mathilde'],1
+['maître charpentier'],1
+['maître gymn.'],1
+['maîtresse de pension'],1
+"['md fripier,']",1
+['menuiserie'],1
+['menuiserie-ébéniste-rie'],1
+['menuisier-ébéniste'],1
+['meun'],1
+['mineur'],1
+"['ministre', ', pension pourjeunes garçons']",1
+['missionnaire'],1
+"['modiste', ', 2.']",1
+"['modiste', 'm. a.']",1
+"['mont, en chauff']",1
+"['mont, téléph']",1
+"['mont, électr']",1
+"['mont,']",1
+['monte caro'],1
+['monteur mécanicien'],1
+['monteur t. l.'],1
+['mouleur'],1
+['musicienne'],1
+['méc.'],1
+['méc.-électr.'],1
+"['mécan cff,']",1
+['mécan'],1
+"['mécan. c. f. f.,ch']",1
+['mécan. cee.'],1
+['mécan. chauff'],1
+"['mécan., tricot']",1
+"['mécan.-électricien,']",1
+['mécan.-êlectr.'],1
+['mécan.. cff'],1
+['mécan.. monte caro'],1
+['mécan..'],1
+['mécanic en'],1
+"['mécanic. cff.,rue']",1
+"['mécaniciengff,']",1
+"['méd.-dentiste,quart']",1
+['ména-gore'],1
+['ménag'],1
+['ménag.'],1
+['ménagère.'],1
+['métr.-vérificat.'],1
+['nettoyeur'],1
+['ni. charpentier'],1
+['nickeleur'],1
+['notaire (étude'],1
+['nun'],1
+['nég'],1
+"['négoc. entabacs,']",1
+['négoc.'],1
+['négociant en cuirs'],1
+"['négociant', 'tapis linoléum']",1
+"['organiste', 'repos-cottage']",1
+['ouv. camp'],1
+['ouv. chocolatière'],1
+['ouv. de fabr'],1
+['ouv. de fati'],1
+['ouv. photograveur'],1
+"['ouvr. de ville,retr']",1
+['ouvr. d’usine'],1
+['ouvr. fahr'],1
+"['ouvr. fahr.,quart']",1
+['ouvrier de ville'],1
+['ouvrier fabrique'],1
+['ouvrière'],1
+"['palefrenier,']",1
+"['papierspeints,']",1
+['pasteur(mission intérieure'],1
+['peintre bât.'],1
+['peintre en lettres'],1
+['peintre en voitures'],1
+"['peintre encarrosserie,']",1
+['peintre envoitures'],1
+['peintre-décorat.'],1
+['pension de demoiselles'],1
+['pension et garde-malade'],1
+"['pensionde jeunes gens', '. —']",1
+['phntogr.'],1
+['photogr'],1
+['pianiste'],1
+['pierristc'],1
+['pionnier'],1
+['piqucuse'],1
+['piqueur'],1
+"['plàtrier', '-peinlre']",1
+['polisseur de pianos'],1
+['polisseur'],1
+"['primeurs,']",1
+['prof'],1
+"['prof, de chant.av']",1
+"['prof, de gym']",1
+"['prof, de mus']",1
+"['prof, de musique']",1
+"['profess, de langues', ', dessin,modelage et calligraphie']",1
+"['profess, de sciencesphysiques et naturelles']",1
+"['profess,retraité']",1
+"['profess., camp.grande borde']",1
+['professeur de dessin'],1
+['professeur de gymnastique'],1
+['professeur de langues'],1
+['professeur d’escrime'],1
+"['professeur, pension de jeunes gens']",1
+"['professeur, pensionde jeunes gens']",1
+"['professeur,']",1
+"['professeur,rédacteur du chrétien évangélique']",1
+['propriét'],1
+"['propriétaire,']",1
+['préparateur'],1
+['quart'],1
+['r. des jardins'],1
+['ramoneur'],1
+['raém'],1
+['remmaillage de bas. atet'],1
+['remmailleuse'],1
+['remouleur'],1
+['renseignements'],1
+"['rentier', 'veuve', 'couturière', 'dame', 'épicerie, mercerie']",1
+['repass.'],1
+"['repr', '.']",1
+['représ'],1
+['représent.carba s'],1
+"['représentant,']",1
+"['représentantassur..', 'téléphone 22 0212']",1
+['restaurateur cantine des casernes'],1
+['restaurateur'],1
+['retr'],1
+"['retraité cff,']",1
+"['retraité cff.,av']",1
+['retraité post'],1
+['retraité post.. lapastourelle'],1
+['retraité postal'],1
+['retraité ptt.'],1
+['retraité s. i.'],1
+['retraité s.i.'],1
+['revendeur'],1
+"['revendeuse,']",1
+"['ro-sine-albertine', 'rentière']",1
+['rose mousse'],1
+"['réparateur', 'deverres']",1
+['rêpar. de bijouterie'],1
+['sage-femme'],1
+['scmmeü’ère'],1
+['sculpteur'],1
+['sculpture et décoration'],1
+['secrét. dirdes ecoles'],1
+"['secrét. greffemunicipal,']",1
+['secrét. trib.de district'],1
+['secrét.'],1
+"['secrét.-comptable,']",1
+['secrét..'],1
+['secrétaiire'],1
+['secrétaire au bureau du<-timbre'],1
+['secrétaire e.m.l.'],1
+['secrétaire en chef dudép. militaire'],1
+['seorét. département militaire'],1
+"['serg.-maj. sap.-pompiers,']",1
+"['serg.-major,', 'garde-frontières']",1
+['serr. t.'],1
+['serrur'],1
+['serrur.'],1
+"['serrur.,']",1
+"['serrurier s. i.,av']",1
+"['serrurier-appa', '-reilleur']",1
+['serveuse'],1
+['sommeli&re'],1
+['soudeur'],1
+['sous-chef deservice b. c. v.'],1
+"['sous-direct. union vaudoise du crédit,']",1
+['sténo-dactvlo'],1
+['stêno-dact'],1
+['surv.'],1
+['sœur charité'],1
+['sœur visitante'],1
+['taill.'],1
+['taillandier'],1
+['tailleuse'],1
+"['tanneur', ',commerce de cuirs (bureau et tannerie']",1
+['techn. cff'],1
+['techn. radio'],1
+['techn.-électric..'],1
+['teinturier'],1
+"['ti-tommas ini charles,', 'menuisier']",1
+['tils'],1
+"['tissusgros et détail', 'draperie, étoffes (magasin']",1
+"['travail,']",1
+['tricot à la machine'],1
+['tripier'],1
+['typograp'],1
+"['typographe', 'chalet suisse']",1
+['télégraphiste'],1
+['téléphon'],1
+['tôlier'],1
+['v. maria'],1
+['va beau-crêt'],1
+['val fleuri'],1
+['valet dechambre'],1
+['vendeur de journaux'],1
+['vendeuse de journaux'],1
+"['veuve', 'journalière']",1
+"['veuve', 'modiste']",1
+"['veuve', 'ménag']",1
+"['veuve', 'ménagère']",1
+"['veuve', 'pens,p. jeunes gens']",1
+"['veuve', 'pension pour jeunes demoiselles']",1
+"['veuve', 'rent']",1
+"['vigneron', 'm. floury']",1
+['voiturier'],1
+['voyageur'],1
+"['vve', 'bon-neterie-laines,', 'l’ale 10.t.']",1
+"['vve', 'concierge']",1
+"['vve', 'couturière']",1
+"['vve', 'giletière']",1
+"['vve', 'march,d’œufs']",1
+"['vve', 'mercerie-bonneterie']",1
+"['vve', 'ménagère']",1
+"['vve', 'épicerie']",1
+['vêtements detravail'],1
+"['é ri c-em i 1 e,appareilleur']",1
+['école particul'],1
+['école particul< folriana >'],1
+['écrivain'],1
+"['éditeur,']",1
+['électr'],1
+['électr.-techn..'],1
+['électric'],1
+['électricien autos'],1
+['électricien s.'],1
+"['électricien surautos,']",1
+['électro-mécan .'],1
+['électro-technic.'],1
+['éléctricien'],1
+"['épicerie', 'confiserie']",1
+['équipementélectr.'],1
+"['étudiant', 'mais. barraud']",1
+['étudiante'],1
+['êlectr.'],1
+['êtud..'],1
